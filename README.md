@@ -5,7 +5,8 @@ Title of game is "Tajemnica Sryriusza" which is "Secret of Sirius" while word "S
 ## Technical specs
 * Raycasting 3D engine (like the one in [Wolfenstein-3D](http://en.wikipedia.org/wiki/Wolfenstein_3D) game). 
 * This code was born during golden age of DOS, and was compiled under DJGPP (DOS port of GNU C). 
-* I used [Allegro](http://www.talula.demon.co.uk/allegro/)game library.
+* I used [Allegro](http://www.talula.demon.co.uk/allegro/) game library.
+* *Compiled binary is included.* You should be able to run it under [DosBox](http://www.dosbox.org).
 
 ## Beware of:
 * Comments are in Polish :-)
