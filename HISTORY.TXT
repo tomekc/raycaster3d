@@ -1,0 +1,37 @@
+
+                ßßÛßß ÛßßÛ   Û Ûßßß ÛßÛßÛ ÛßßÛ ßÛß ÛßßÛ ÛßßÛ
+                  Û   ÛßßÛ Ü Û Ûß   Û Û Û Û  Û  Û  Û    ÛßßÛ
+                  ß   ß  ß ßßß ßßßß ß   ß ß  ß ßßß ßßßß ß  ß
+
+                 Ûßßß ÛßÛ  Û  Û ÛßÛ  ßÛß Û  Û Ûßßß ßßÛß ÛßßÛ
+                 ßßßÛ ÛßßÛ ßßßÛ ÛßßÛ  Û  Û  Û ßßßÛ Üß   ÛßßÛ
+                 ßßßß ß  ß ßßßß ß  ß ßßß ßßßß ßßßß ßßßß ß  ß
+  ÚÄÄÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÄ¿
+  ³                  Nieznana historia mojego opus magnum.                   ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+  25.10.1996 - dzia’a ju§ nowy, zoptymalizowany algorytm raycastingu.
+               zrezygnowa’em z liczzb float, dzia’a cienniowanie. program
+               jest w pe’ni obiektowy. pluskwa - czasami pojawiaj† si‘
+               pojedyncze skaszanione paski. Trzeba przyjrze si‘ ray-
+               casterowi.
+  26.10.1996 - modu’ bitfont dzia’a poprawnie, rysuje wszystkie litery,
+               ma funnkcj‘ printf. wywali’em rysowanie z przejciem do nl,
+               to b‘dzie mia’a nowa klasa Console
+  27.10.1996 - jest ju§ poruszanie si‘ z _prawid’owym_ ograniczeniem ruch¢w
+               klawiatura na przerwaniach. okazuje si‘, §e dzia’a szzybciej
+               ni§ stara wersja. zadziwiaj†ce jest to, §e program EXE z czasem
+               staje si‘ coraz kr¢tszy... nowy program funkcjonalnie ju§ jest
+               prawie identyczny jak jego protoplasta (a nawet lepiej)
+  29.01.1997 - dokona’em cudownego skoku w czasoprzestrzeni: przed t† dat† by’o
+               mn¢stwo poprawek (grudzie¤ 1996), ale cofn†’em si‘ w czasie.
+               Powodem nie by’o bynajmniej zakrzywienie czasoprzestrzeni, lecz
+               awaria twardego dysku. Niesamowitym cudownym zbiegem
+               okolicznoci Borys mia’ komplet ¦r¢de’, troch‘ starych ale
+               to zawsze co. Bardzo fajnie si‘ znajduje na nowo te same
+               pluskwy...
+  17.03.1997 - Oj, dawno nie siedzia’em nad programem. Dzi dorobi’em
+               dekompresor LZO. Poprawka w ’adowaniu map - nie mo§na u§ywa
+               klamki do odczytu ze spakowanych plik¢w.
+
+
